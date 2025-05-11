@@ -1,0 +1,43 @@
+body {
+     background-image: url("https://www.dlh.net/public/data/cache/1000x0/edb97a9149de3db7152c6228988b99747e5264b3.png")
+}
+
+
+img{
+     height: 250px;
+     width: 250px;
+     display: flex;
+     flex-direction: column;
+}
+
+
+.revalvi{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
+.mifa{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
+.daruk{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
+.urboza{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
+.link{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
+.zelda{
+     float: right;
+     margin-left: 300px;
+     margin-top: -100px;
+}
